@@ -62,7 +62,7 @@
 
 
 <div align="center">
-<a/>Thnakyou</a>
+<a/>Thankyou</a>
 </div>
 
 <br/>
