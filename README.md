@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **WaralsTechnlogy**
+ 🔭 I’m currently working on **PurpusOrgorbit**
  
  🌱 I’m currently learning **AI/ML**
 
